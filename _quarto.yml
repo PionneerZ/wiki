@@ -536,14 +536,21 @@ website:
       contents:
         - text: "Training Courses"
         - text: "---"
+        - section: "IFCD021-26 Docs"
+          contents:
+            - ifcd0021-26/ifcd0021-26.qmd
+            - ifcd0021-26/ifcd0021-backlog-sprint-26.qmd
+            - ifcd0021-26/ifcd0021-backlog-product-26.qmd
+            - ifcd0021-26/ifcd0021-deliveries-26.qmd
+        - text: "---"
+        - section: "Archived"
+          contents:
+        - text: "---"
         - section: "IFCD044-26 Docs"
           contents:
             - ifcd044-26/ifcd044-26.qmd
             - ifcd044-26/ifcd044-backlog-sprint-26.qmd
             - ifcd044-26/ifcd044-backlog-product-26.qmd
-        - text: "---"
-        - section: "Archived"
-          contents:
         - text: "---"
         - section: "IFCD0210-26 Docs"
           contents:

@@ -1,0 +1,53 @@
+---
+title: "IFCD0021-26 Sprint Backlog"
+categories: [ifcd0021, backlog]
+toc: true
+number-sections: false
+format:
+  html
+filters:
+   - lightbox
+lightbox: true
+---
+
+<style>
+
+.heatMap th { background:  #f4f4f4;}
+tr:nth-child(3) {background-color: #f4f4f4;}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color:  #f4f4f4;}
+
+</style>
+
+![Sprint Backlog](/images/home/backlog.jpg){width="30%"}
+
+<div class="heatMap">
+
+::: {.column-page-right}
+
+##  ``Sprint#01: Course introduction`` (September 2026)
+
+| # | Day | Date | Topics |  Details Topics |
+| -- | -- | -- | -- | -- |
+| #01  | 01 | 14/09/26 | - Course introduction  |   |
+|   | 02 | 15/09/26 | - Course Sprint #01  |   |
+|   |  |  |   |   |
+|   | 03 | 26/09/26 | - Course Sprint #01   |   |
+|  | 04 | 17/09/26 | -Course Sprint #01  |   |
+: Backlog course Sprint#01 September 2026 table {tbl-colwidths="[2,2,2,60,34]"}
+:::
+
+</div>
+
+::: {.callout-note}
+- `-` topic planned or done
+- `----` topic pending to future
+- `++` new topic not planned
+:::
+
