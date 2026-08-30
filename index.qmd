@@ -69,7 +69,7 @@ repo-actions: false
 | Date | Type | Article | Content |
 | -- | -- | :-- | :-- |
 | 09/2026 | 📜 News | Starting FullStack IFCD021-26 **14/09 Monday** | Starting FullStack Java/React  |
-| 09/2026 |  📜 News | Summary FullStack IFCD021-25 [Summary IFCD021-25 pdf](/images/ifcd0021-26/IFCD0021-1-25-cat.pdf) | Summary FullStack Java/React 2025  |
+| 09/2026 |  📜 News | FullStack [Summary IFCD021-24 pdf](/images/ifcd0021-26/docs/IFCD0021-1-24-cat.pdf) / [Summary IFCD021-25 pdf](/images/ifcd0021-26/docs/IFCD0021-1-25-cat.pdf) | Summary FullStack Java/React 2024 / 2025  |
 | 09/2026 |  Documentation |  📜  [IFCD021-26](/ifcd0021-26/ifcd0021-26.qmd) | Official documents IFCD021-26 course  |
 | 09/2026 | **Backlog** | 🗂 [Sprint Backlog](/ifcd0021-26/ifcd0021-backlog-sprint-26.qmd) | Sprint Backlog IFCD021-26  |
 | 09/2026  | **Backlog** | 🗃 [Product Backlog](/ifcd0021-26/ifcd0021-backlog-product-26.qmd) | Product Backlog IFCD021-26  |
