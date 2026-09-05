@@ -33,7 +33,7 @@ Markdown has become the go-to format for documentation due to its numerous advan
 
 - **Simplicity**: Easy to learn and read, even in its raw form.
 - **Portability**: Can be converted to various formats (HTML, PDF, etc.).
-- **Version Control**: Works seamlessly with version control systems.
+- **Version Control**: Works seamlessly with version control systems like Git.
 - **Flexibility**: Supports embedding of code blocks, images, and links.
 
 # Popular Documentation Tools
@@ -41,6 +41,7 @@ Markdown has become the go-to format for documentation due to its numerous advan
 ![](/images/devops/devops-documentation.png){fig-align="center" width="70%"}
 
 Several tools leverage markdown for creating powerful documentation:
+
 
 - **Docusaurus**: [https://docusaurus.io](https://docusaurus.io)
 - **Sphinx**: [https://www.sphinx-doc.org](https://www.sphinx-doc.org)
